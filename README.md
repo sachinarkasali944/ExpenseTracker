@@ -18,7 +18,7 @@ Expense records belong to the local demo store; no bank connection is provided.
 | --- | --- |
 | `ExpenseTracker.xcodeproj` | `ExpenseTracker` |
 
-Select a simulator compatible with the deployment target in Build Settings and press **⌘R**. Physical-device deployment requires your own development team and provisioning. Simulator build checks use Xcode 27 and the installed iOS 27 SDK.
+Select a simulator compatible with the deployment target in Build Settings and press **⌘R**. Physical-device deployment requires your own development team and provisioning. Simulator build checks use Xcode 27 and the installed iOS 27 SDK
 
 ```bash
 git clone https://github.com/sachinarkasali944/ExpenseTracker.git
